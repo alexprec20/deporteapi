@@ -1,0 +1,72 @@
+[
+    {
+        "id": "00001",
+        "nombre": "Creatina",
+        "precio": 29.99,
+        "unidades": 100,
+        "stock": "50"
+    },
+    {
+        "id": "00002",
+        "nombre": "Proteína Whey",
+        "precio": 45.5,
+        "unidades": 80,
+        "stock": "40"
+    },
+    {
+        "id": "00003",
+        "nombre": "BCAA",
+        "precio": 19.99,
+        "unidades": 120,
+        "stock": "60"
+    },
+    {
+        "id": "00004",
+        "nombre": "Pre-entreno",
+        "precio": 35.0,
+        "unidades": 50,
+        "stock": "25"
+    },
+    {
+        "id": "00005",
+        "nombre": "Multivitamínico",
+        "precio": 15.25,
+        "unidades": 200,
+        "stock": "100"
+    },
+    {
+        "id": "00006",
+        "nombre": "Omega 3",
+        "precio": 12.9,
+        "unidades": 150,
+        "stock": "75"
+    },
+    {
+        "id": "00007",
+        "nombre": "Magnesio",
+        "precio": 9.99,
+        "unidades": 100,
+        "stock": "50"
+    },
+    {
+        "id": "00008",
+        "nombre": "Glutamina",
+        "precio": 22.45,
+        "unidades": 90,
+        "stock": "45"
+    },
+    {
+        "id": "00009",
+        "nombre": "Cinturón gym",
+        "precio": 25.0,
+        "unidades": 30,
+        "stock": "15"
+    },
+    {
+        "id": "00010",
+        "nombre": "Guantes",
+        "precio": 14.5,
+        "unidades": 40,
+        "stock": "20"
+    }
+]
